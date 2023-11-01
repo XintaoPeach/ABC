@@ -3,11 +3,11 @@
 *************************************Chinese******************************************
 作者: Xintao Peach
 邮箱: gongzuo.wxt@gmail.com
-项目地址: 
+项目地址: https://github.com/XintaoPeach/ABC
 *************************************English******************************************
 Author: Xintao Peach
 Email: gongzuo.wxt@gmail.com
-Project Address:
+Project Address: https://github.com/XintaoPeach/ABC
 """
 import numpy as np
 import copy as copy
